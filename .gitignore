@@ -44,3 +44,9 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Reference & Design assets (not deployed to web)
+*.pdf
+logo_black.png
+logo_white.png
+
